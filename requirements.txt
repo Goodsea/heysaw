@@ -11,3 +11,4 @@ flask
 tensorboard
 pandas 
 matplotlib
+pytest==2.9.1 
