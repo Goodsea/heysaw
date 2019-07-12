@@ -12,4 +12,16 @@ Age-Related Macular Degeneration (AMD) occurs as a result of the inactivation an
 Equally to all people in the world; providing fast, high accurate, easy-to-use and free medical softwares. <br>
 <p align="center"><i>"Goodness Is All You Need"</i></p>
 
+## Demo
+
+## Methods that used in <i>heysaw</i>
+
+## Install Dependecies
+
 ## Dataset
+
+## Performance
+
+## License
+
+## Contact
