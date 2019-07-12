@@ -3,7 +3,6 @@ scikit-learn
 albumentations
 tensorflow
 keras
-numpy
 tqdm
 gevent
 werkzeug
