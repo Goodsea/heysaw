@@ -13,6 +13,7 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 <p align="center"><i>"Goodness Is All You Need"</i></p>
 
 ## Demo
+<img src="stuffs/demo.gif" alt="demo-gif" align="center">
 
 ## Install Dependecies
 
