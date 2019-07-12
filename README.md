@@ -1,4 +1,5 @@
-# heysaw [![Build Status](https://travis-ci.com/Goodsea/heysaw.svg?branch=master)](https://travis-ci.com/Goodsea/heysaw) [![DOI](https://zenodo.org/badge/196641130.svg)](https://zenodo.org/badge/latestdoi/196641130)
+# heysaw [![Build Status](https://travis-ci.com/Goodsea/heysaw.svg?branch=master)](https://travis-ci.com/Goodsea/heysaw)
+[![DOI](https://zenodo.org/badge/196641130.svg)](https://zenodo.org/badge/latestdoi/196641130)
  Retinal Diseases (CNV, DME, DRUSEN, NORMAL) Diagnoses Tool
 
 ## Introduction 
