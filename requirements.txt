@@ -1,0 +1,13 @@
+opencv-python
+scikit-learn
+albumentations
+tensorflow
+keras
+numpy
+tqdm
+gevent
+werkzeug
+flask
+tensorboard
+pandas 
+matplotlib
