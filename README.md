@@ -8,4 +8,4 @@ Optical Coherence Tomography (OCT) provides ophthalmologists with a great conven
 #### What is the importance of CNV, DME, DRUSEN diseases?
 Age-Related Macular Degeneration (AMD) occurs as a result of the inactivation and degeneration of photoreceptor cells in the macula. AMD; It is a disease that affects “central sharp vision” in reading, sewing and driving, and is one of the leading causes of irreversible vision loss. DRUSEN is a characteristic finding that plays a key role in the transition to the advanced stages of AMD. Therefore, slowing or stopping AMD can be achieved by early detection of DRUSEN disease. In most AMD cases, visual loss occurs due to choroidal neovascularization (CNV) in the subfoveal region. According to a study of young patients, 62% of people with myopia have CNV disease at the same time. Since CNV is usually subfoveal, CNV needs to be treated to maintain central vision. Another major cause of visual impairment is Diabetic Macular Edema (DME). DME is a disease caused by the destruction of the internal blood-retinal barrier. 
 
-#### The Main Aim of Heysaw Project
+### The Main Aim of <b>heysaw</b> Project
