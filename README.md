@@ -1,4 +1,4 @@
-# heysaw
+# heysaw [![Build Status](https://travis-ci.com/Goodsea/heysaw.svg?branch=master)](https://travis-ci.com/Goodsea/heysaw)
  Retinal Diseases (CNV, DME, DRUSEN, NORMAL) Diagnoses Tool
 
 ## Introduction 
