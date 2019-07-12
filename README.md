@@ -20,6 +20,5 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 
 ## Performance
 
-## License
-
 ## Contact
+Email: kutsal_baran@hotmail.com
