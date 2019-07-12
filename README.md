@@ -25,8 +25,8 @@ Download codes <br>
  <code>cd heysaw</code> <br>
 <br>
 Install dependecies for CPU <br>
- <code>pip install -r requirements_cpu.txt</code> <br>
-Install dependecies for Nvidia-GPU <br><br>
+ <code>pip install -r requirements_cpu.txt</code> <br><br>
+Install dependecies for Nvidia-GPU <br>
  <code>pip install -r requirements_gpu.txt</code> <br>
 <br>
 Run the best pretrained model on localhost.
