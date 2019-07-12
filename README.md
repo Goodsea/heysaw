@@ -14,8 +14,6 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 
 ## Demo
 
-## Methods that used in <i>heysaw</i>
-
 ## Install Dependecies
 
 ## Dataset
