@@ -206,4 +206,4 @@ def upload():
 if __name__ == '__main__':
     http_server = WSGIServer(('', args.port), app)
     http_server.serve_forever()
-    sys.exit()
+    sys.exit(0)
