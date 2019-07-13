@@ -38,6 +38,23 @@ Run the best pretrained model on localhost. <br>
 <code>http://dx.doi.org/10.17632/rscbjbr9sj.2#file-9e8f7acf-7d3a-487f-8eb5-0bd3255b9685</code>
 
 ## Performance
+#### Training - Validation Losses
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="stuffs/Model Accuracy Graph - 0. Fold.png" alt="Model Accuracy Graph - 0. Fold.png" align="left"></td>
+  <td><img src="stuffs/Model Accuracy Graph - 1. Fold.png" alt="Model Accuracy Graph - 1. Fold.png" align="center"></td>
+  <td><img src="stuffs/Model Accuracy Graph - 2. Fold.png" alt="Model Accuracy Graph - 2. Fold.png" align="right"></td>
+  </tr>
+  <tr>    
+  <td><img src="stuffs/Model Loss Graph - 0. Fold.png" alt="Model Loss Graph - 0. Fold.png" align="left"></td>
+  <td><img src="stuffs/Model Loss Graph - 1. Fold.png" alt="Model Loss Graph - 1. Fold.png" align="center"></td>
+  <td><img src="stuffs/Model Loss Graph - 2. Fold.png" alt="Model Loss Graph - 2. Fold.png" align="right"></td>
+  </tr>
+</table>
+
+#### Confusion Matrix
+<img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" align="center" style="width:30%;height:30%;">
+
 
 ## Contact
 Email: kutsal_baran@hotmail.com
