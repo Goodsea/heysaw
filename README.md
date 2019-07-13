@@ -67,5 +67,5 @@ Citation:
 - <a href="https://github.com/mtobeiyf/keras-flask-deploy-webapp" target="_blank">keras-flask-deploy-webapp</a>, This repository is the skeleton of the <i>heysaw</i> web application.
 - <a href="https://github.com/JudasPriestBAE" target="_blank">JudasPriestBAE</a>, <i>heysaw</i> Name Founder.
 
-## Contact
+## Contact me
 Email: kutsal_baran@hotmail.com
