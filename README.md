@@ -33,7 +33,7 @@ Run the best pretrained model on localhost. <br>
  <code>python app.py</code>
 
 ## Dataset
-<i> "Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification" (Version 2) (OCT2017.tar.gz) Dataset was used in this project. </i><br><br>
+<i> "Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification" (Version 2) (OCT2017.tar.gz) Dataset was used in this project. </i><br>
 
 Citation:
 <code>http://dx.doi.org/10.17632/rscbjbr9sj.2</code> </br>
