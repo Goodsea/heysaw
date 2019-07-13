@@ -64,11 +64,11 @@ Citation:
 ### Confusion Matrix
 <center><img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" align="center" width=520></center>
 
+## License
+This project is licensed under the GNU Affero General Public License v3.0 - see the <a href="LICENSE.md">LICENSE.md</a> file for details.
+
 ## Acknowledgements
 - <a href="https://arxiv.org/pdf/1709.01507.pdf" target="_blank">Squeeze-and-Excitation Networks</a>
 - <a href="https://arxiv.org/pdf/1608.03983.pdf" target="_blank">SGDR: Stochastic Gradient Descent With Warm Restarts</a>
 - <a href="https://github.com/mtobeiyf/keras-flask-deploy-webapp" target="_blank">keras-flask-deploy-webapp</a>, This repository is the skeleton of the <i>heysaw</i> web application.
 - <a href="https://github.com/JudasPriestBAE" target="_blank">JudasPriestBAE</a>, <i>heysaw</i> Name Founder.
-
-## Contact me
-Email: kutsal_baran@hotmail.com
