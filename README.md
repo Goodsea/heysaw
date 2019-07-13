@@ -28,7 +28,7 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 
 #### Install dependecies for CPU <br>
  <code>pip install -r requirements_cpu.txt</code> <br><br>
-#### Install dependecies for Nvidia-GPU <br>
+#### Install dependecies for Nvidia-GPU (required CUDA and CUDNN) <br>
  <code>pip install -r requirements_gpu.txt</code> <br>
 <hr>
 
