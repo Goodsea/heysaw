@@ -38,7 +38,7 @@ Run the best pretrained model on localhost. <br>
 <code>http://dx.doi.org/10.17632/rscbjbr9sj.2#file-9e8f7acf-7d3a-487f-8eb5-0bd3255b9685</code>
 
 ## Performance
-#### Training - Validation Losses
+### Training - Validation Losses
 <table width="100%" border="0">
   <tr>    
   <td><img src="stuffs/Model Accuracy Graph - 0. Fold.png" alt="Model Accuracy Graph - 0. Fold.png" align="left"></td>
@@ -52,9 +52,11 @@ Run the best pretrained model on localhost. <br>
   </tr>
 </table>
 
-#### Confusion Matrix
-<img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" align="center" style="width:30%;height:30%;">
+### Confusion Matrix
+<img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" height=60%, width=60% align="center">
 
+### Basic CPU-GPU Speed Comparison
+<img src="stuffs/hardware_speed_comparison.PNG" alt="hardware_speed_comparison.PNG" align="center">
 
 ## Contact
 Email: kutsal_baran@hotmail.com
