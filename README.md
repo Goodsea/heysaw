@@ -2,7 +2,7 @@
  Retinal Diseases (CNV, DME, DRUSEN, NORMAL) Diagnoses Tool
 
 ## Introduction 
-#### Why OCT Images?
+#### Why are we use OCT Images?
 Optical Coherence Tomography (OCT) provides ophthalmologists with a great convenience in the diagnosis and follow-up of macular diseases. The OCT uses light waves to display the retinal section in detail while shooting. During this process, X-rays and radiation of sufficient magnitude that may have a negative effect on patients are not emitted. OCT is also preferred in the field of ophthalmology since it provides real-time and non-invasive imaging.
 
 #### What are the importances of CNV, DME, DRUSEN diseases?
