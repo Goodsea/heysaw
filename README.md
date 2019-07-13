@@ -16,20 +16,23 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 <img src="stuffs/demo.gif" alt="demo-gif" align="center">
 
 ## Install Dependecies
-Create Conda environment and activate it <br>
+#### Create Conda environment and activate it <br>
  <code>conda create -n heysaw python=3.6</code> <br>
  <code>conda activate heysaw</code> <br>
 <hr>
-Download codes <br>
+
+#### Download codes <br>
  <code>git clone https://github.com/Goodsea/heysaw </code> <br>
  <code>cd heysaw</code> <br>
 <hr>
-Install dependecies for CPU <br>
+
+#### Install dependecies for CPU <br>
  <code>pip install -r requirements_cpu.txt</code> <br><br>
-Install dependecies for Nvidia-GPU <br>
+#### Install dependecies for Nvidia-GPU <br>
  <code>pip install -r requirements_gpu.txt</code> <br>
- <hr>
-Run the best pretrained model on localhost. <br>
+<hr>
+
+#### Run the best pretrained model on localhost. <br>
  <code>python app.py</code>
 
 ## Dataset
