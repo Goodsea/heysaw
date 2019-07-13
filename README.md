@@ -52,11 +52,12 @@ Run the best pretrained model on localhost. <br>
   </tr>
 </table>
 
-### Confusion Matrix
-<img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" height=60%, width=60% align="center">
-
 ### Basic CPU-GPU Speed Comparison
 <img src="stuffs/hardware_speed_comparison.PNG" alt="hardware_speed_comparison.PNG" align="center">
+
+### Confusion Matrix
+<center><img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" align="center" width=520></center>
+
 
 ## Contact
 Email: kutsal_baran@hotmail.com
