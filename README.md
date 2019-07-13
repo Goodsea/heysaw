@@ -34,7 +34,8 @@ Run the best pretrained model on localhost. <br>
 
 ## Dataset
 <i> "Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification" (Version 2) (OCT2017.tar.gz) Dataset was used in this project. </i><br><br>
-<code>DOI: http://dx.doi.org/10.17632/rscbjbr9sj.2#file-9e8f7acf-7d3a-487f-8eb5-0bd3255b9685</code>
+<code>Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, v2
+http://dx.doi.org/10.17632/rscbjbr9sj.2#file-9e8f7acf-7d3a-487f-8eb5-0bd3255b9685</code>
 
 ## Performance
 
