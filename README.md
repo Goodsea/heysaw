@@ -56,7 +56,7 @@ Citation:
 </table>
 
 ### Basic CPU-GPU Speed Comparison
-<img src="stuffs/hardware_speed_comparison.PNG" alt="hardware_speed_comparison.PNG" align="center">
+<img src="stuffs/hardware_speed_comparison_table.PNG" alt="hardware_speed_comparison_table.PNG" align="center">
 
 ### Confusion Matrix
 <center><img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" align="center" width=520></center>
