@@ -37,12 +37,12 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
  
 #### Arguments Options
 ```
- --width    INT      Target Image Width.        Default is 256.    ######
- --height   INT      Target Image Height.       Default is 256.    ## Target Image Shape must compatible with model.
- --channel  INT      Target Image Channel.      Default is 1.      ######
+ --width    INT      Target Image Width.        Default is 256.                      ### Target Image Shape \
+ --height   INT      Target Image Height.       Default is 256.                      ### must compatible    \
+ --channel  INT      Target Image Channel.      Default is 1.                        ### with model.        \
  --path     STR      Best Model Location Path.  Default is `models/heysaw_fold_1.h5`.
- --save     BOOL     Save Uploaded Image.       Default is False.  ## Reduce storage usage.
- --port     INT      WSGIServer Port Number.    Default is 5000.   ## Make sure there is no port conflict.
+ --save     BOOL     Save Uploaded Image.       Default is False.                    # Reduce storage usage.
+ --port     INT      WSGIServer Port Number.    Default is 5000.                     # Make sure there is no port conflict.
 ```
 
 ## Dataset
