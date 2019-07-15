@@ -28,7 +28,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-w1", "--width", help="Target Image Width", type=int, default=256)
 parser.add_argument("-h1", "--height", help="Target Image Height", type=int, default=256)
 parser.add_argument("-c1", "--channel", help="Target Image Channel", type=int, default=1)
-parser.add_argument("-p", "--path", help="Best Model Location Path", type=str, default="models")
+parser.add_argument("-p", "--path", help="Best Model Location Path", type=str, default="models/heysaw_fold_1.h5")
 parser.add_argument("-s", "--save", help="Save Uploaded Image", type=bool, default=False)
 parser.add_argument("--port", help="WSGIServer Port ID", type=int, default=5000)
 args = parser.parse_args()
@@ -136,7 +136,7 @@ def create_model():
 
 model = create_model()
 print(model.summary())
-model.load_weights(os.path.join(MODEL_SAVE_PATH,"heysaw_fold_"+str(1)+".h5")) # Loading best model.
+model.load_weights(MODEL_SAVE_PATH)
 print('Model loaded. Check http://localhost:{}/'.format(args.port))
 
 
