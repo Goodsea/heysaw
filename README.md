@@ -35,7 +35,7 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 #### Run the best pretrained model on localhost. <br>
  <code>python app.py</code>
  
-#### Arguments Options
+#### Argument Options
 ```
  |  --width    |  INT   |  Target Image Width.        |  Default is 256                        |
  |  --height   |  INT   |  Target Image Height.       |  Default is 256                        |
