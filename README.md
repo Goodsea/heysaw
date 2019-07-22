@@ -87,3 +87,6 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 - <a href="https://arxiv.org/pdf/1608.03983.pdf" target="_blank">SGDR: Stochastic Gradient Descent With Warm Restarts</a>
 - <a href="https://github.com/mtobeiyf/keras-flask-deploy-webapp" target="_blank">keras-flask-deploy-webapp</a>, This repository is the skeleton of the <i>heysaw</i> web application.
 - <a href="https://github.com/JudasPriestBAE" target="_blank">JudasPriestBAE</a>, <i>heysaw</i> Name Founder.
+
+## Contact
+E-mail: kutsal_baran@hotmail.com
