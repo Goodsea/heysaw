@@ -1,4 +1,5 @@
 # heysaw   [![Build Status](https://travis-ci.com/Goodsea/heysaw.svg?branch=master)](https://travis-ci.com/Goodsea/heysaw) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3333946.svg)](https://doi.org/10.5281/zenodo.3333946) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGoodsea%2Fheysaw.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGoodsea%2Fheysaw?ref=badge_shield)
  Retinal Diseases (CNV, DME, DRUSEN, NORMAL) Diagnoses Tool
 
 ## Introduction 
@@ -81,6 +82,9 @@ Citation:
 
 ## License
 This project is licensed under the GNU Affero General Public License v3.0 - see the <a href="LICENSE.md">LICENSE.md</a> file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGoodsea%2Fheysaw.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGoodsea%2Fheysaw?ref=badge_large)
 
 ## Acknowledgements
 - <a href="https://arxiv.org/pdf/1709.01507.pdf" target="_blank">Squeeze-and-Excitation Networks</a>
