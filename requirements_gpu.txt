@@ -9,5 +9,5 @@ pandas==0.24.2
 sklearn==0.0
 tqdm==4.32.1
 tensorboard==1.13.1
-tensorflow-gpu==1.15.0
+tensorflow-gpu==1.15.2
 Werkzeug==0.15.4
