@@ -1,4 +1,4 @@
-# heysaw   [![Build Status](https://travis-ci.com/Goodsea/heysaw.svg?branch=master)](https://travis-ci.com/Goodsea/heysaw) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3333946.svg)](https://doi.org/10.5281/zenodo.3333946) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+# heysaw   [![Build Status](https://travis-ci.com/Goodsea/heysaw.svg?branch=master)](https://travis-ci.com/Goodsea/heysaw) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3333946.svg)](https://doi.org/10.5281/zenodo.3333946) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  Retinal Diseases (CNV, DME, DRUSEN, NORMAL) Diagnoses Tool
 
 ## Introduction 
