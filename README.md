@@ -80,7 +80,7 @@ Citation:
 <center><img src="stuffs/confusion_matrix.png" alt="confusion_matrix.png" align="center" width=520></center>
 
 ## License
-This project is licensed under the GNU Affero General Public License v3.0 - see the <a href="LICENSE">LICENSE</a> file for details.
+This project is licensed under MIT License - see the <a href="LICENSE">LICENSE</a> file for details.
 
 ## Acknowledgements
 - <a href="https://arxiv.org/pdf/1709.01507.pdf" target="_blank">Squeeze-and-Excitation Networks</a>
