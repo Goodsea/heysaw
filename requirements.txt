@@ -4,7 +4,6 @@ gevent
 matplotlib
 numpy
 opencv-python-headless
-pandas
 sklearn
 tqdm
 tensorflow
