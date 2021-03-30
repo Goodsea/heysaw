@@ -59,7 +59,7 @@ def f1(y_true, y_pred):
 def squeeze_excite_block(input, ratio=16):
     init = input
     channel_axis = 1 if K.image_data_format() == "channels_first" else -1
-    filters = init._keras_shape[channel_axis]
+    filters = init.shape[channel_axis]
     se_shape = (1, 1, filters)
 
     se = GlobalAveragePooling2D()(init)
