@@ -1,0 +1,7 @@
+./train.ipynb
+tests/*
+stuffs/*
+models/heysaw_fold_0.h5
+models/heysaw_fold_1.h5
+deploy/val/*
+data/*
