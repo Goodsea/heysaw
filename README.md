@@ -17,7 +17,7 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 
 ## Install Dependecies
 #### Create Conda environment and activate it <br>
- <code>conda create -n heysaw python=3.6</code> <br>
+ <code>conda create -n heysaw python=3.8</code> <br>
  <code>conda activate heysaw</code> <br>
 <hr>
 
@@ -27,8 +27,8 @@ Equally to all people in the world; providing fast, high accurate, easy-to-use a
 <hr>
 
 #### Install dependecies for CPU <br>
- <code>pip install -r requirements_cpu.txt</code> <br><br>
-#### Install dependecies for Nvidia-GPU (required CUDA and CUDNN) <br>
+ <code>pip install -r requirements.txt</code> <br><br>
+#### Install dependecies for Nvidia-GPU (required CUDA-11 and CUDNN-8.0.4) <br>
  <code>pip install -r requirements_gpu.txt</code> <br>
 <hr>
 
