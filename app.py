@@ -1,21 +1,20 @@
-## Dependecies
+# Dependecies
 from __future__ import division, print_function
 import os
 import argparse
 import numpy as np
 
-#Image 
+# Image 
 import cv2
 from sklearn.preprocessing import normalize
 
-# Keras
-import keras
-from keras.layers import *
-from keras.optimizers import SGD
-from keras.models import load_model, Model
-from keras.callbacks import Callback, ModelCheckpoint, TensorBoard
+# Tensorflow-Keras
+from tensorflow.keras.layers import *
+from tensorflow.keras.optimizers import SGD
+from tensorflow.keras.models import load_model, Model
+from tensorflow.keras.callbacks import Callback, ModelCheckpoint, TensorBoard
 
-from keras import backend as K
+import tensorflow.keras.backend as K
 
 # Flask utils
 from gevent.pywsgi import WSGIServer
@@ -59,7 +58,7 @@ def f1(y_true, y_pred):
 def squeeze_excite_block(input, ratio=16):
     init = input
     channel_axis = 1 if K.image_data_format() == "channels_first" else -1
-    filters = init._keras_shape[channel_axis]
+    filters = init.shape[channel_axis]
     se_shape = (1, 1, filters)
 
     se = GlobalAveragePooling2D()(init)
